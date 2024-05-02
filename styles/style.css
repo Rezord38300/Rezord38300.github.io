@@ -9,4 +9,13 @@
 
 .view-button:hover {
     color: white;
+}
+
+.tags {
+    font-weight: bold;
+    text-align: center;
+} 
+
+.project-description h1 {
+    font-size: 96px;
 } 
