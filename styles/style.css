@@ -2,3 +2,11 @@
     margin: 0;
     padding: 0;
 }
+
+.view-button {
+    color: #6c757d;
+} 
+
+.view-button:hover {
+    color: white;
+} 
