@@ -17,5 +17,38 @@
 } 
 
 .project-description h1 {
-    font-size: 96px;
+    font-size: 80px;
+} 
+
+.carousel-control-next-icon {
+    background-color: black;
+} 
+
+.carousel-control-prev-icon {
+    background-color: black;
+} 
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.35);
+} 
+
+body{
+    background-color: rgba(0, 0, 0, 0.08)!important;
+} 
+
+.nav li:first-child a {
+    font-size: 20px;
+    margin-right: 128px;
+} 
+
+.card img {
+    max-height: 204px;
+} 
+
+.border-button{
+    border-color: black!important;
+} 
+
+.border-button:hover{
+    background-color: rgba(0, 0, 0, 0.08)!important;
 } 
