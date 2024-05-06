@@ -20,6 +20,12 @@
     font-size: 72px;
 } 
 
+@media only screen and (max-width: 600px) {
+    .project-description h1 {
+        font-size: 58px;
+    } 
+}
+
 .carousel-control-next-icon {
     background-color: black;
 } 
