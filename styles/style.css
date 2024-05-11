@@ -11,6 +11,10 @@
     color: white;
 }
 
+.btn-group button:hover .view-button {
+    color: white;
+}
+
 .tags {
     font-weight: bold;
     text-align: center;
@@ -63,3 +67,7 @@ nav > div > div > .text-end {
 .border-button:hover{
     background-color: rgba(0, 0, 0, 0.08)!important;
 } 
+
+.testag{
+    background-image: url(../img/herbe_2.png);
+}
